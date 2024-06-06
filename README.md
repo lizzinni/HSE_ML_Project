@@ -1,5 +1,7 @@
 # Flood probability prediction
 
+Link to the [presentation](https://docs.google.com/presentation/d/1IcRXBWVmZpbf1igzLZHawVQNMQRx6YYTc-NasQF55ms/edit?usp=sharing)
+
 To predict flood probability we used this [dataset](https://www.kaggle.com/competitions/playground-series-s4e5/data?select=train.csv)
 
 Instructions to Run the Bot:
